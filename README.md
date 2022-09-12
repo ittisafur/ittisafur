@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ittisafur" target="blank"><img src="https://img.shields.io/twitter/follow/ittisafur?logo=twitter&style=for-the-badge" alt="ittisafur" /></a> </p>
 
-- 🔭 I’m currently working on [Raush](https://www.rau.sh/)
+- 🔭 I’m currently working at [Raush](https://www.rau.sh/)
 
-- 🌱 I’m currently learning **Rust and Lua**
+- 🌱 I’m currently learning **Express and Nestjs**
 
 - 👨‍💻 All of my projects are available at [ittisafur.com/portfolio](ittisafur.com/portfolio)
 
