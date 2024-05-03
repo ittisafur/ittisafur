@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Kanarys](https://kanarys.com/)
 
-- 👨‍💻 All of my projects are available at [ittisafur.com/portfolio](ittisafur.com/portfolio)
+- 👨‍💻 All of my projects are available at [ittisafur.com/portfolio](https://ittisafur.com/portfolio)
 
 - 💬 Ask me about **Reactjs, Nextjs, Redux, PHP**
 
