@@ -28,7 +28,7 @@ Senior Full Stack Engineer with experience owning software from requirements and
 
 - Sole engineer for a multi-school early-literacy platform: **1,268** accounts, **1,624** students across **351** schools, ~**800** MAU
 - Production stack on **Next.js 15**, Node/Express, MySQL, Docker, **GKE**, and GCP (~12.7k HTTP requests/day)
-- Built parent engagement + communications (Plivo/Brevo), SIMS-style admin workflows, and Expo/EAS Android phonics app
+- Built parent engagement + communications (Plivo/Brevo), SIMS-style admin workflows, and Expo/EAS [Android phonics app](https://play.google.com/store/apps/details?id=org.homereadinghelper.alphabet)
 - At [Kanarys](https://www.linkedin.com/company/kanarysinc/): replaced Looker with Chart.js/Redux in 2.5 months; migrated CRA → Vite (**40%** faster builds)
 
 ### Tech stack
