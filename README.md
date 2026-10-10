@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/ittisafur" target="blank"><img src="https://img.shields.io/twitter/follow/ittisafur?logo=twitter&style=for-the-badge" alt="ittisafur" /></a>
-  <a href="https://www.linkedin.com/in/ittisafur/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-ittisafur-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://ittisafur.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-ittisafur.com-111111?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://twitter.com/ittisafur" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/ittisafur?logo=twitter&style=for-the-badge" alt="ittisafur" /></a>
+  <a href="https://www.linkedin.com/in/ittisafur/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-ittisafur-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://ittisafur.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-ittisafur.com-111111?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -17,19 +17,19 @@
 
 Senior Full Stack Engineer with experience owning software from requirements and architecture through implementation, cloud infrastructure, deployment, debugging, and iteration. Comfortable across APIs, databases, GraphQL, Terraform, Docker, Kubernetes, GCP, CI/CD, testing, and observability — and with AI-assisted workflows that still keep production quality accountable.
 
-- 🔭 Most recently: **Founding Full Stack Engineer** at [1234 Home Reading Helper](https://1234homereadinghelper.org) (May 2025 – Aug 2026)
-- 🌱 Previously: Senior Full Stack at [Kanarys](https://www.linkedin.com/company/kanarysinc/), Full Stack at [Arete Health](https://aretehealth.com), Frontend at [Raush](https://www.linkedin.com/company/raushapp/about) (Zurich)
+- 🔭 Most recently: **Founding Full Stack Engineer** at <a href="https://1234homereadinghelper.org" target="_blank" rel="noopener noreferrer">1234 Home Reading Helper</a> (May 2025 – Aug 2026)
+- 🌱 Previously: Senior Full Stack at <a href="https://www.linkedin.com/company/kanarysinc/" target="_blank" rel="noopener noreferrer">Kanarys</a>, Full Stack at <a href="https://aretehealth.com" target="_blank" rel="noopener noreferrer">Arete Health</a>, Frontend at <a href="https://www.linkedin.com/company/raushapp/about" target="_blank" rel="noopener noreferrer">Raush</a> (Zurich)
 - 💬 Ask me about **TypeScript, Next.js, React, Node.js, GCP, Terraform, Kubernetes**
 - 📫 Reach me at **ittisafur@gmail.com**
-- 🌐 Portfolio: [ittisafur.com](https://ittisafur.com)
+- 🌐 Portfolio: <a href="https://ittisafur.com" target="_blank" rel="noopener noreferrer">ittisafur.com</a>
 - ⚡ Open to full-time and contract opportunities
 
 ### Recent highlights
 
 - Sole engineer for a multi-school early-literacy platform: **1,268** accounts, **1,624** students across **351** schools, ~**800** MAU
 - Production stack on **Next.js 15**, Node/Express, MySQL, Docker, **GKE**, and GCP (~12.7k HTTP requests/day)
-- Built parent engagement + communications (Plivo/Brevo), SIMS-style admin workflows, and Expo/EAS [Android phonics app](https://play.google.com/store/apps/details?id=org.homereadinghelper.alphabet)
-- At [Kanarys](https://www.linkedin.com/company/kanarysinc/): replaced Looker with Chart.js/Redux in 2.5 months; migrated CRA → Vite (**40%** faster builds)
+- Built parent engagement + communications (Plivo/Brevo), SIMS-style admin workflows, and Expo/EAS <a href="https://play.google.com/store/apps/details?id=org.homereadinghelper.alphabet" target="_blank" rel="noopener noreferrer">Android phonics app</a>
+- At <a href="https://www.linkedin.com/company/kanarysinc/" target="_blank" rel="noopener noreferrer">Kanarys</a>: replaced Looker with Chart.js/Redux in 2.5 months; migrated CRA → Vite (**40%** faster builds)
 
 ### Tech stack
 
@@ -69,8 +69,8 @@ Senior Full Stack Engineer with experience owning software from requirements and
 ### Connect
 
 <p align="left">
-  <a href="https://twitter.com/ittisafur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/ittisafur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://twitter.com/ittisafur" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ittisafur/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <p>
