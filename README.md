@@ -17,8 +17,8 @@
 
 Senior Full Stack Engineer with experience owning software from requirements and architecture through implementation, cloud infrastructure, deployment, debugging, and iteration. Comfortable across APIs, databases, GraphQL, Terraform, Docker, Kubernetes, GCP, CI/CD, testing, and observability — and with AI-assisted workflows that still keep production quality accountable.
 
-- 🔭 Most recently: **Founding Full Stack Engineer** at 1234 Home Reading Helper (May 2025 – Aug 2026)
-- 🌱 Previously: Senior Full Stack at [Kanarys](https://kanarys.com/), Full Stack at Arete Health, Frontend at Raush (Zurich)
+- 🔭 Most recently: **Founding Full Stack Engineer** at [1234 Home Reading Helper](https://1234homereadinghelper.org) (May 2025 – Aug 2026)
+- 🌱 Previously: Senior Full Stack at [Kanarys](https://www.linkedin.com/company/kanarysinc/), Full Stack at [Arete Health](https://aretehealth.com), Frontend at [Raush](https://www.linkedin.com/company/raushapp/about) (Zurich)
 - 💬 Ask me about **TypeScript, Next.js, React, Node.js, GCP, Terraform, Kubernetes**
 - 📫 Reach me at **ittisafur@gmail.com**
 - 🌐 Portfolio: [ittisafur.com](https://ittisafur.com)
@@ -29,7 +29,7 @@ Senior Full Stack Engineer with experience owning software from requirements and
 - Sole engineer for a multi-school early-literacy platform: **1,268** accounts, **1,624** students across **351** schools, ~**800** MAU
 - Production stack on **Next.js 15**, Node/Express, MySQL, Docker, **GKE**, and GCP (~12.7k HTTP requests/day)
 - Built parent engagement + communications (Plivo/Brevo), SIMS-style admin workflows, and Expo/EAS Android phonics app
-- At Kanarys: replaced Looker with Chart.js/Redux in 2.5 months; migrated CRA → Vite (**40%** faster builds)
+- At [Kanarys](https://www.linkedin.com/company/kanarysinc/): replaced Looker with Chart.js/Redux in 2.5 months; migrated CRA → Vite (**40%** faster builds)
 
 ### Tech stack
 
